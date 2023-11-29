@@ -56,7 +56,7 @@ To properly configure your Slack Teachable Bot, follow these steps:
     ```
   - To do this via the terminal, you can copy the `.env.example` file:
     ```
-    cp .env.example .env
+    cp env.example .env
     ```
   - Then edit the `.env` file to insert your specific values.
 * **OpenAI Configuration List**:
