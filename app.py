@@ -23,7 +23,7 @@ SLACK_BOT_USER_ID = os.getenv("SLACK_BOT_USER_ID")
 def create_teachable_agent(name="hal"):
     config_list = config_list_from_json(
         env_or_file="OAI_CONFIG_LIST",
-        file_location="/Users/AeonSun/AeonGit/Pocket-Chief-AI",
+        file_location=“/OAI/CONFIG/LIST/FILE/LOCATION”,
         filter_dict={
             "model": ["gpt-4", "gpt4", "gpt-4-32k"],
         },
@@ -39,7 +39,7 @@ def create_teachable_agent(name="hal"):
     teach_config = {
         "verbosity": 0,
         "reset_db": False,
-        "path_to_db_dir": "/Users/AeonSun/AeonGit/Pocket-Chief-AI/teaching/teachable_agent_db",
+        "path_to_db_dir": “/PATH/TO/DESIRED/CHROMA_DB/DIRECTORY”,
         "recall_threshold": 1.5,
     }
 
