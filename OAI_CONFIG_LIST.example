@@ -1,0 +1,34 @@
+[
+    {
+        "model": "gpt-4",
+        "api_key": "sk-YOUR_OPENAI_API_KEY"
+    },
+    {
+        "model": "gpt-4-0613",
+        "api_key": "sk-YOUR_OPENAI_API_KEY"
+    },
+    {
+        "model": "gpt-4-1106-preview",
+        "api_key": "sk-YOUR_OPENAI_API_KEY"
+    },
+    {
+        "model": "gpt-3.5-turbo",
+        "api_key": "sk-YOUR_OPENAI_API_KEY"
+    },
+    {
+        "model": "gpt-3.5-turbo-16k",
+        "api_key": "sk-YOUR_OPENAI_API_KEY"
+    },
+    {
+        "model": "gpt-3.5-turbo-16k-0613",
+        "api_key": "sk-YOUR_OPENAI_API_KEY"
+    },
+    {
+        "model": "gpt-3.5-turbo-0613",
+        "api_key": "sk-YOUR_OPENAI_API_KEY"
+    },
+    {
+        "model": "gpt-3.5-turbo-1106",
+        "api_key": "sk-YOUR_OPENAI_API_KEY"
+    }
+]

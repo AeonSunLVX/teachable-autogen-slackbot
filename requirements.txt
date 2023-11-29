@@ -1,0 +1,7 @@
+langchain==0.0.339
+pyautogen==0.1.14
+pyperclip==1.8.2
+python-dotenv==1.0.0
+slack_bolt==1.18.0
+termcolor==2.3.0
+watchdog==3.0.0
